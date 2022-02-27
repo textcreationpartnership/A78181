@@ -1,0 +1,516 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No-body his complaint a dialogue between Master No Body, and Doctour Some-Body. A delightfull discourse. By George Baron. No-Body. Why do'st thou father all they lies on me? heaping indignities on one that never injur'd thee? Som-Body. My words and acts hurt no-body. No-Body. Som-Body hath belied me much, no-body sure hath cause to grutch.</title>
+            <author>Baron, George, fl. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78181</idno>
+            <idno type="STC">Wing B877</idno>
+            <idno type="STC">Thomason E1351_5</idno>
+            <idno type="STC">ESTC R209399</idno>
+            <idno type="EEBO-CITATION">99868279</idno>
+            <idno type="PROQUEST">99868279</idno>
+            <idno type="VID">169822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169822)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 178:E1351[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No-body his complaint a dialogue between Master No Body, and Doctour Some-Body. A delightfull discourse. By George Baron. No-Body. Why do'st thou father all they lies on me? heaping indignities on one that never injur'd thee? Som-Body. My words and acts hurt no-body. No-Body. Som-Body hath belied me much, no-body sure hath cause to grutch.</title>
+                  <author>Baron, George, fl. 1652.</author>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by By. Alsop, dwelling near the Upper-Pomp in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures A B⁴.</note>
+                  <note>With a titlepage woodcut.</note>
+                  <note>Annotation on Thomason copy: "Aug. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eccentric literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169822:1" rendition="simple:additions"/>
+            <p>No-Body his Complaint A Dialogue between Maſter No Body, and Doctour Some-Body. <hi>A delightfull Diſcourſe. By</hi> GEORGE BARON.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="dialogue">
+                        <sp>
+                           <speaker>No-Body.</speaker>
+                           <l>Why do'ſt thou father all thy Lies</l>
+                           <l>On me? heaping Indignities</l>
+                           <l>On one that never injur'd thee?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Som-Body.</speaker>
+                           <l>My Words and Acts hurt <hi>No-body.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>No-Body.</speaker>
+                           <l>
+                              <hi>Som-body</hi> hath belied me much,</l>
+                           <l>
+                              <hi>No-Body</hi> ſure hath cauſe to grutch.</l>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>cartoonish representation of two well-dressed male figures</figDesc>
+               <p>SomeBody</p>
+               <p>NoBody</p>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. Alſop,</hi> dwelling near the Up<g ref="char:EOLhyphen"/>per-Pomp in Grubſtreet, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:169822:2"/>
+            <pb facs="tcp:169822:2"/>
+            <head>No-Bodies Complaint. <hi>A</hi> Dialogue between Maſter <hi>No-Body,</hi> and Doctor <hi>Some-Body.</hi>
+            </head>
+            <sp>
+               <speaker>No-Body.</speaker>
+               <p>
+                  <seg rend="decorInit">O</seg>H my friend, M. <hi>Some-body,</hi> the heavens be thanked that I have ſo fortunately met with thee, to make thee acquainted with my ſad condition; for I proteſt, that above this thrée moneths toge<g ref="char:EOLhyphen"/>ther, I have been ſo ſad, ſo troubled in mind, and ſo perplexed with melancholy thoughts, that it hath almoſt brought me into deſpair.</p>
+            </sp>
+            <sp>
+               <speaker>Some-body.</speaker>
+               <p>Alas Mr. <hi>Nobody,</hi> theſe words of yours ſtrikes grief unto my ſoul: for I never grieve more then when I hear that word, De<g ref="char:EOLhyphen"/>ſpair. I deſire you now without delay to tell me the occaſion why, and wherefore you are ſo troubled.</p>
+            </sp>
+            <sp>
+               <speaker>Nobo.</speaker>
+               <p>Ha: I verely thought to have told thee but I will refrain, I know thou canſt do me no good, nor none in the world.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:3"/>
+               <speaker>Som.</speaker>
+               <p>None in the world! me thinks that is very ſtrange; ſurely you are troubled with a diſ<g ref="char:EOLhyphen"/>eaſe that none in the world is beſides.</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>That which troubles me ſo, is no diſ<g ref="char:EOLhyphen"/>eaſe, therefore you are miſtaken in that; but I muſt confeſs to thee, that I think it will bring diſeaſes upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Let me deſire you then in the word of a friend, not to keep cloſe to your ſelf thoſe things which ſo much trouble you but impart them to me; you know I have been your old friend, and have always wiſhed you well: Hearken now to my counſel you know not how much good I may do you; I have been a Doctor in all parts of the world, and have cured many which I verily be<g ref="char:EOLhyphen"/>leeve have been worſe then you are, and here in my native Countrie I have performed cures, which I think you muſt needs hear of; and you having been troubled but three moneths, you wil be the ſooner cured.</p>
+            </sp>
+            <sp>
+               <speaker>Nob,</speaker>
+               <p>I know as good a Doctor as you are: and for all you have cured ſo manie, yet nothing that you can do can cure me; for although I have been troubled in mind but thrée moneths, yet I have been paſt cure many thouſand years: Were I as wiſe now as <hi>I</hi> have formerly been, <hi>I</hi> had never diſquieted my ſelf ſo much as <hi>I</hi> have done: but <hi>I</hi> muſt tell thee too, ſo many thouſand
+<pb facs="tcp:169822:3"/> years <hi>I</hi> have lived in hope that things would have grown better and better but now <hi>I</hi> ſée they grow worſe and worſe, which hath brought me into this lamentable condition.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>You ſpeak as if you were very old, and it is a common ſaying, that the older folk grow the more wit they have; but <hi>I</hi> perceive the old<g ref="char:EOLhyphen"/>er you grow the more fool you are. Me thinks you had done wiſely, if you had ſlighted thoſe things which did not pleaſe you, and ſo your thoughts had not been diſquieted; but this that you have ſaid now is a Paradox to me, <hi>I</hi> know not what your meaning is, in ſaying, that you have been troubled in mind but three moneths, and have been part cure thouſands of years: <hi>I</hi> deſire therefore, that you would demonſtrate to me how this can be!</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>Alas poor ſoul, <hi>I</hi> ſhould be very willing to demonſtrate to thee that my words are true, were <hi>I</hi> in the leaſt hope that thou couldeſt do me any good: but knowing that thou art not potent enough to do it, <hi>I</hi> will never declare what it is that hath brought me into this ſad condition, but kéep it cloſe to my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>You may tell me however, whether <hi>I</hi> can do thee good or not; you know that <hi>I</hi> cannot make you worſe, it may be <hi>I</hi> may make thee bet<g ref="char:EOLhyphen"/>ter; but <hi>I</hi> proteſt unto thee, that <hi>I</hi> never heard
+<pb facs="tcp:169822:4"/> any ſpeak ſuch words as thou haſt done, to ſay that thou haſt been paſt cure thouſands of years, <hi>I</hi> never heard nor read of any that hath been troubled in mind ſo long as you have been, but either they have been cured in a ſhort time or elſe come to ſome deſperate end; and more, <hi>I</hi> ne<g ref="char:EOLhyphen"/>ver heard or read of any that lived a thouſand years, and you ſpeak as if you were ten times as old as <hi>Methuſalem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>Thou telleſt me thou canſt not make me worſe <hi>I</hi> am ſure thou canſt not make me bet<g ref="char:EOLhyphen"/>ter; and yet let me tell thee how thou canſt make me worſe: Thou maieſt make me worſe by thy abundance of words, for my mind is trou<g ref="char:EOLhyphen"/>bled enough already, but theſe tormenting words of thine, if thou holdeſt not thy tongue, will make me far worſe then ever <hi>I</hi> have been yet: me thinks <hi>I</hi> am aſhamed that thou being a Doctor, ſhouldeſt ſpeak ſuch ſimple werds, to ſay, thou canſt not make me worſe. But the truth is thy pocket (<hi>I</hi> think) is empty of money; thou would<g ref="char:EOLhyphen"/>eſt be tampering with me to give me Phyſick: but know, that no Phyſick in the world can do me any good, and <hi>I</hi> know Doctors love monie very well. Thou ſaieſt thou doſt wonder that <hi>I</hi> ſhould ſay <hi>I</hi> have been troubled in mind but three moneths, and have béen paſt cure thouſands of years; thou needeſt not to wonder at it, for
+<pb facs="tcp:169822:4"/> what <hi>I</hi> have ſaid is nothing but truth, and more <hi>I</hi> will tell thee that as I have a name by my ſelf, ſo I am troubled about that which none in the world is beſides my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Alas ſir, I am ſorry I ſhould be a means to make you worſe; for I ingeniouſly profeſſe unto you, that I love you ſo well, that I ſhould be almoſt contented to die, ſo that it might be a means to make you better: but I find now your mind is changed, for at my firſt méeting with you, you told me that you thought your ſelf infinite happy becauſe you had ſo fortunately met with me, that you might acquaint me with your ſad condition, and indeed I thought my words would have prevailed ſo much with you, that I ſhould have driven away thoſe ſad cogita<g ref="char:EOLhyphen"/>tions, which do ſo perplex your mind; you need not be aſhamed for that I ſaid, <hi>I</hi> thought <hi>I</hi> could do you good (if you would tell me the occaſion why you were ſo troubled:) if <hi>I</hi> had tried and could not, I hope you would have accepted the will for the deed, and for ſaying <hi>I</hi> diſſemble and what <hi>I</hi> ſpeak is for nothing but to get monie out of you. I proteſt you do me a world of injurie, <hi>I</hi> thank God, <hi>I</hi> have monie enough but had <hi>I</hi> none it would be great neceſſity which ſhould drive me to take monie of you; and I muſt tell you more, that we Phyſitians are undeſervedly
+<pb facs="tcp:169822:5"/> ſcandalized by all ſorts of people, whoſe ſaying is, that all of us love monie very well, but alas tis contrary, for <hi>I</hi> think we value monie leſs then any do, though we have more reaſon to love our monie more then any do: <hi>I</hi> beleeve wiſe men will ſay ſo, if they conſider the world of pains we endure riſing out of our beds all hours of the night, and walking about all the day long to viſit our patients ſo that we have ſcarce time to eat either dinners or ſuppers; <hi>I</hi> proteſt it is enough to bring diſeaſes upon our ſelves, and what would the people do then for Phyſitians? You ſay <hi>I</hi> need not wonder at what you ſaid that you have been troubled in mind but three Mo<g ref="char:EOLhyphen"/>neths, and have been paſt cure thouſands of years, you ſhew me indeed a reaſon why <hi>I</hi> ſhould not wonder at it becauſe that <hi>I</hi> never heard any of your name beſides your ſelf, and as you have a name by your ſelf, ſo you ſay you are troubled about that which none other is: But <hi>I</hi> pray you once again to tell me what it is; I am the more earneſt, becauſe none elſe hath been troubled with it.</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>Surely you are long winded, and love to prittle prattle; but Phyſitians are ſo for the moſt part, they can tel a tale two or three hours together; but <hi>I</hi> do not ſay you can therfore excuſe me: you know <hi>I</hi> love to be merry ſometimes.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:5"/>
+               <speaker>Som.</speaker>
+               <p>Hah, do you love to be merry, and ſaid but now that you were almoſt in deſpair theſe three moneths together? <hi>I</hi> perceive you can lie as well as others: ſurely what you have ſaid is not true, but onelie to ſee what <hi>I</hi> would ſay to it.</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>What <hi>I</hi> have told you is true and if <hi>I</hi> ſhould tel you my grief it would but grieve you.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Why do you tell me ſo? <hi>I</hi> ſhould rejoice rather, for the aſſured hope and confidence <hi>I</hi> have to cure you, would make me rejoice.</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>Cure me! me thinks thou ſpeakeſt like a very fool: thou talkeſt of curing me if <hi>I</hi> would tell thee my grief; <hi>I</hi> have told thee already, and that is not enough, but thou muſt know the cauſe of it; Phyſitians deſire no more but to know the diſeaſe. But ſurelie thou art no Phy<g ref="char:EOLhyphen"/>ſitian, but ſome Farrier, fitter to cure a horſe tha<g ref="char:cmbAbbrStroke">̄</g> a man, and now thou profeſſeſt thy ſelf a Doctor.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir me thinks you ſpeak more like a fool then <hi>J;</hi> for though Phyſitians deſire but to know the diſeaſe that avails not you for you have confeſſed that yours was no diſeaſe, but perplex<g ref="char:EOLhyphen"/>ity of mind; if <hi>J</hi> knew what did perplex thee, <hi>J</hi> might perſwade you out of it. it is good coun<g ref="char:EOLhyphen"/>ſel (if any thing) that muſt do you good, and this is the reaſon why <hi>J</hi> am ſo importunate: if this deſire be ſimple, <hi>J</hi> have no wiſdome in me. <hi>J</hi> be<g ref="char:EOLhyphen"/>ſeech you let me make one more acquainted
+<pb facs="tcp:169822:6"/> with the condition you are in, and <hi>J</hi> will be judged by him, whether or no that which <hi>J</hi> have ſpoken is ſimple; but why ſhould <hi>J</hi> be ſo deſirous to get means to cure you, ſeeing you ſo abuſe me to my face, in calling me Farrier and more fitter to cure a horſe then to undertake to cure a man, <hi>J</hi> took you alwaies to be my friend, but <hi>J</hi> perceive now that you are ſo far from it, that you are my abſolute enemie, or elſe you would never have caſt ſuch aſperſions upon me; what <hi>J</hi> have deſired all this time that <hi>J</hi> have been preſent with you, hath been for your good and not for mine if you were ſo deep in deſpair, and it were impoſſible to cure you you know it will be nothing to me, <hi>J</hi> ſhould never be the better or the worſe, but being one of my old acquaint<g ref="char:EOLhyphen"/>ance, therefore <hi>J</hi> ſhould be ſorry to ſee you grow in deſpair: and for all you have abuſed me ſo to my face, yet <hi>J</hi> will never abuſe you ſo, but eſteem of you as my friend, <hi>J</hi> can forget injuries preſently, you ſee how ſoon an<g ref="char:EOLhyphen"/>ger ſlies out of my breaſt <hi>J</hi> cannot retain it a moment within me: and now Sir, <hi>J</hi> would de<g ref="char:EOLhyphen"/>ſire you to be wiſe, as you eſteem your own good, and be not ſo ſelf-willed in your ways.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>What doeſt thou think <hi>I</hi> am a fool, and have lived ſo long in the world: <hi>I</hi> am as old (almoſt) as <hi>Adam,</hi> and wilt thou teach me to
+<pb facs="tcp:169822:6"/> be wiſe, no know that <hi>I</hi> have wit enough, and <hi>I</hi> pray thee be not ſo angry, becauſe <hi>I</hi> ſaid thou art fitter to cure a horſe, then to undertake to cure a man for <hi>I</hi> proteſt <hi>I</hi> am ſorry for it, and furthermore <hi>I</hi> tell thee, it proceeded more out of my paſſion, then any ill will <hi>I</hi> have towards thee and therefore pardon me for it, <hi>I</hi> know thou haſt performed great cures, which <hi>I</hi> have heard di<g ref="char:EOLhyphen"/>vers men report, and <hi>I</hi> aſſure my ſelf it is true: but me thinks thou didſt ask me one ſimple queſtion even now; which was, that thou deſi<g ref="char:EOLhyphen"/>reſt to acquaint another in what a condition <hi>I</hi> am in, but <hi>I</hi> muſt tell thee that <hi>I</hi> am ſo far from yeelding to thy deſire, that hadſt thou not been one, whom <hi>I</hi> thought <hi>I</hi> might put confidence in, thy ſelf ſhould never have known it: further<g ref="char:EOLhyphen"/>more know that <hi>I</hi> am paſt all cure, and none can do no good.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir me thinks <hi>I</hi> am not ſimple, becauſe <hi>I</hi> deſired you to permit me that <hi>I</hi> might make a<g ref="char:EOLhyphen"/>nother acquainted with your diſtreſſed eſtate; for thinking my ſelf almoſt out of hope to prevail with you therefore <hi>I</hi> deſired to acquaint ano<g ref="char:EOLhyphen"/>ther with it, to ſee whether he could prevail with you, and alſo to judge, whether that <hi>I</hi> ſpoke before was ſimple, and ſeeing you will not per<g ref="char:EOLhyphen"/>mit me to do this, <hi>I</hi> tell you plainly <hi>I</hi> am out of hope, that ever you will tell me what it is that troubles your mind.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:7"/>
+               <speaker>No.</speaker>
+               <p>Me thinkes that in all this time thou haſt béen diſcourſing with me, thou mighteſt have found out thy ſelf what is it that hath al<g ref="char:EOLhyphen"/>moſt brought me into diſpair.</p>
+            </sp>
+            <sp>
+               <speaker>D. Som.</speaker>
+               <p>Alas ſir, I think it is impoſſible for me to dive into your thoughts, and by your diſcourſe I cannot tell what it is.</p>
+            </sp>
+            <sp>
+               <speaker>M. No.</speaker>
+               <p>Impoſſible! that is not true, for I ve<g ref="char:EOLhyphen"/>rily beléeve, had you as much wit as you profeſſe you have; you muſt needs know.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir, I am no Divel nor Witch (though I am a Doctour) to tell ſuch ſtrange things: you told me I might have found it out having ſo long diſcourſe with you; but truly I think, ſhould I diſcourſe ten times as long again with you I ſhould not know.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>No, Divell nor Witch I beléeve you are not, but I cannot beleeve, but that you know already, what it is that troubles my mind ſo much.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>I muſt thank you for the good opinion you have of me, but truly I muſt tell you a<g ref="char:EOLhyphen"/>gain, I know not, neither do I think (without you tell me) I ever ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Mr. Doctor, you néed not be ſo deſirous to know, but I think your Conſcience accuſeth you.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Accuſe me! I deſire you would
+<pb facs="tcp:169822:7"/> tell me for what, for truly I know not.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>I muſt tell you plain, if your conſcience do not accuſe you, it may do juſtly.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>I deſire to know again what my con<g ref="char:EOLhyphen"/>ſcience ſhould accuſe me of you have put me in great admiration, I know not what it ſhould be unleſſe ſome buſie body hath told ſome falſe-tales on me.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>No Sir, know that none in the world e<g ref="char:EOLhyphen"/>ver told any tale to me, but what I know my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>I deſire then you would tell me what you know your ſelf of me.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Know of thee? I ſhall tell preſently, thy ſelf is one that hath almoſt brought me into deſ<g ref="char:EOLhyphen"/>pair.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Oh woe is me, am I one that hath almoſt brought you into diſpair? the heavens forbid it I ſhould think I were the moſt unfortunates wretch in the world, ſhould I be guilty of ſo heinous a crime.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Now I perceive thine ignorance thou little thinkſt wherein thou haſt almoſt brought me in to deſpair, and for all thou ſayeſt thou wouldeſt not for a world be guilty of ſo heinous a crime, yet I tell thée that thou art; but more I muſt tell thée, that there are thouſands in the world that are more guilty then thou art.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:8"/>
+               <speaker>Som.</speaker>
+               <p>You talk that I am guilty, and thou<g ref="char:EOLhyphen"/>ſands which are more guilty, but all this time I know not of what I am guilty off, I would I were ſo wiſe to know, and then I doubt not, but I ſhall ſufficiently ſatisfie you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Satisfie me! <hi>I</hi> know thou canſt not ſa<g ref="char:EOLhyphen"/>tisfie me that thou art clear, for <hi>I</hi> am ſure of the contrarie, and <hi>I</hi> tell thee again, that thou, and more then thouſands, yea the whole world, hath abuſed and wronged me.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Is that it that troubles you ſo much? me thinks this is the ſtrangeſt thing that ever <hi>I</hi> heard of that all the world ſhould abuſe one man, <hi>I</hi> deſire you would tell me how they have abuſed you, and then <hi>I</hi> will beleeve it.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>
+                  <hi>I</hi> can eaſily make it appear unto you in what the world have abuſed me: but what néed <hi>I? I</hi> know thou canſt not help it: one thing <hi>I</hi> tell thee more that theſe dayes of late <hi>I</hi> am more ſcandalized and wronged then ever <hi>I</hi> was here<g ref="char:EOLhyphen"/>tofore, that <hi>I</hi> think the Divel is in them all.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir, pray be not ſo paſſionate, <hi>I</hi> think you will be frantick as you have ſaid, <hi>I</hi> deſire you would tell me how <hi>I</hi> have abuſed and belied you, and after you have told me, <hi>I</hi> deſire you would procéed to tell me how all the world have ſcandalized you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Well, ſéeing you are ſo earneſt to know
+<pb facs="tcp:169822:8"/> 
+                  <hi>I</hi> will tell you; but firſt thou muſt tell me, whe<g ref="char:EOLhyphen"/>ther in all thy life thou haſt committed any faults?</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Alas Sir, there is none in the world but commits faults either one time or another (<hi>I</hi> think) <hi>I</hi> am ſure for my part <hi>I</hi> have.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Thou haſt reſolved me in this, now re<g ref="char:EOLhyphen"/>ſolve me in one more <hi>I</hi> know thou canſt do it, haſt thou denied thy faults when thou haſt done them, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Truly Sir, <hi>I</hi> muſt confeſſe unto you, that <hi>I</hi> love quietneſſe very well, and when <hi>I</hi> have committed a fault, <hi>I</hi> do the beſt <hi>I</hi> can to ex<g ref="char:EOLhyphen"/>cuſe my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>That is not the thing <hi>I</hi> deſired thee to tell me; <hi>I</hi> requeſted of thée when thou haſt done a fault whether thou didſt deny it, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Then truly Sir, to tell you the truth, when <hi>I</hi> have committed a fault <hi>I</hi> denied that e<g ref="char:EOLhyphen"/>ver <hi>I</hi> did it?</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Who haſt thou laied the fault on, or who haſt thou ſaid did it.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>When <hi>I</hi> was asked who did it, <hi>I</hi> made anſwer that <hi>No-body</hi> did it which <hi>I</hi> knew.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Now have <hi>I</hi> found out by thy own words how thou haſt abuſed and belied me, oh diſſem<g ref="char:EOLhyphen"/>bling wretch, thou didſt alwaies pretend, that thou deſireſt to know what it was that had al<g ref="char:EOLhyphen"/>moſt
+<pb facs="tcp:169822:9"/> brought me in deſpair for my good; but now have I found out to the contrary: thou wouldſt not for a world be the cauſe of any ones falling into diſpair, and thou haſt been one cauſe of mine, I perceive thy diſſimulation; I char<g ref="char:EOLhyphen"/>ged thee with it before, but thou didſt deny it: now therefore tell me why thou caſteſt ſuch aſ<g ref="char:EOLhyphen"/>perſions upon me, and ſo bely me, that when thou hadſt done faults to lay it upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir, you have put me in a maze I know not (as yet) what to ſay, but I deſire you that you would give me a little time that I may an<g ref="char:EOLhyphen"/>ſwer you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Thou mayeſt well be in a maze, for I know thou canſt not anſwer for thy ſelf, thine own conſcience is as a thouſand witneſſes a<g ref="char:EOLhyphen"/>gainſt thee: thou didſt think certainly that I would not have thought, that thou hadſt abuſed me; but I know thou haſt put many abu<g ref="char:EOLhyphen"/>ſes on me: Now therefore confeſſs thy wic<g ref="char:EOLhyphen"/>kedneſſe unto me, and that thou haſt belied me, and I will forgive thée; provided, that thou will never do ſo again.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Truly Sir, I muſt confeſſe that many thouſand faults which <hi>I</hi> have done, I have deni<g ref="char:EOLhyphen"/>ed, and when another hath béen asked, he hath denied it, and another he denies it, and ſo all de<g ref="char:EOLhyphen"/>nies it, and at laſt it is concluded that <hi>No body</hi>
+                  <pb facs="tcp:169822:9"/> did it: <hi>I</hi> confeſſe <hi>I</hi> was ignorant of this, that <hi>I</hi> a<g ref="char:EOLhyphen"/>buſed you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Ignorant of it, I cannot beleeve thee. thou art a diſſembler, and <hi>J</hi> took thee alwaies to be my friend, but <hi>J</hi> perceive now thou art mine enemy, or elſe thou wouldeſt never have caſt ſuch ſcandals on me behind my back.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Mr. <hi>No-body,</hi> as long as <hi>I</hi> live <hi>I</hi> ſhall be ever bound to pray for you; for <hi>I</hi> proteſt <hi>I</hi> have learned more wit of you then ever <hi>I</hi> had in my life before, and now <hi>I</hi> beſeech you ſweet Sir, to pardon me for the abuſes <hi>J</hi> have done you and <hi>I</hi> ſhall ever hereafter be carefull that <hi>I</hi> tell no more lies on you, and once again ſweet <hi>Mr. No-body</hi> forgive me.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Well, ſeeing thou haſt ſo earneſtlie de<g ref="char:EOLhyphen"/>ſired me to forgive thee <hi>I</hi> will, but be ſure thou never tell more lies on me as thou haſt former<g ref="char:EOLhyphen"/>ly.</p>
+            </sp>
+            <sp>
+               <speaker>So.</speaker>
+               <p>
+                  <hi>I</hi> never thought y<hi rend="sup">u</hi> had ſo much wit in you, as now <hi>I</hi> ſee you have, and me thinks you having ſo much wit might free your ſelf from the aſper<g ref="char:EOLhyphen"/>ſions of the world.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>That <hi>I</hi> can never do for <hi>I</hi> am not able to bind peoples tongues, and ſo long as they have them at liberty, ſo long ſhall <hi>I</hi> be abuſed.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>You ſpeak very true Sir, and now I pray ſhew me how many things the world lay to your charge.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:10"/>
+               <speaker>No.</speaker>
+               <p>That I will though to my grief ſhew thee, and firſt I wil begin with the high crimes, murther ſhall be the firſt; when any murther is done, I am accuſed for it, when inquiry is mode after it, none will own it, ſo it falleth on me poor <hi>Nobody,</hi> but I would have the world know, I am not guilty of ſuch heinous crimes, and therefore when murthers are done again, I would deſire all people not to charge me with it.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>All that you have ſaid now is true, for I have been where men have been murthered, and when ſearch and inquiry have been made for them that did it, they could not be found; ſo then the ſearchers have ſaid ſurely this is ſtrange, <hi>Nobody</hi> hath done it. And now Mr. <hi>Nobody</hi> I tell you, if I am in place where mur<g ref="char:EOLhyphen"/>thers are found out again; I will do my beſt in<g ref="char:EOLhyphen"/>deavour to clear you and not ſuffer ſuch things to be laid to your charge.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>I thank thee kindly ſweet Doctor I ſhall now eſteem thee as a dear friend, but I know thy endeavours will be in vain, and therefore trouble not thy ſelf, for if there was any means in the world I ſhould have found it out before this time, and now I will proceed to tell thee ſome other crimes which are laid to my charge, but I know it is impoſſible to tell thee all</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:10"/>
+               <speaker>Som.</speaker>
+               <p>I deſire you (ſir) to ſtay a little while before you proceed, that I may ask you a queſti<g ref="char:EOLhyphen"/>on; whether you were ever taken upon ſuſpici<g ref="char:EOLhyphen"/>on of ſuch things?</p>
+            </sp>
+            <sp>
+               <speaker>Nob.</speaker>
+               <p>I was never taken; for I am ſo ſwift of foot, and ſo vigilant, that tis impoſſible; al<g ref="char:EOLhyphen"/>ſo I am here and there in a moment.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>You may rejoice much that you cannot be taken: and now you have ſatisfied me in this, I would deſire you to proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Nobod.</speaker>
+               <p>When Rogues have broken up hou<g ref="char:EOLhyphen"/>ſes, and ſtolen things, if they chance to eſcape, then I am accuſed for it, <hi>No body</hi> hath done it: what a moſt ſad condition am I in, that muſt be thus abuſed.</p>
+               <p>When Robberies are committed upon the high-way, if they eſcape alſo, then I am accuſed for it; for they cover their faces with viſards, thinking to make it like mine, when (alas) I am ignorant of it.</p>
+               <p>When Houſes are ſet on fire by Rogues, then I am accuſed for it; for they run away, and when enquiry is made for them, they are not to be found, then ſome ſay, This is ſtrange, <hi>Nobody</hi> did it.</p>
+               <p>Again, I am accuſed for ſwearing, though I never ſwore an Oath in my life; For when the Conſtable commeth, and demandeth ten groats
+<pb facs="tcp:169822:11"/> for every Oath, then they ſtraightway deny it, and ſay, they knew <hi>No body</hi> which ſwore: and thus you ſee I am abuſed, this is like to all the reſt.</p>
+               <p>Again, When a lying Pamplet comes out againſt the State, none owns it, ſo I am accu<g ref="char:EOLhyphen"/>ſed for it.</p>
+               <p>Again, I am abuſed by Trades-men, for when they buy a parcel of ware, and ſteal the Exciſe, and when the Exciſe-men come and demand it of them they deny it, and ſay, They knew <hi>No body</hi> which did it.</p>
+               <p>Again. When Young Fellowes have got Young Laſſes with Child, then I am accuſed for it for they deny it, and ſay <hi>No body</hi> did it which they knew; all roguery falls on me, I muſt endure all.</p>
+               <p>Again, In poor mens houſes, both in City and Countrey I am abuſed, for when their chil<g ref="char:EOLhyphen"/>dren get to the Cup-board, and eate up the Bread and Cheeſe, and when their Parents ask, Who did it? they deny it, and ſay <hi>No body</hi> did it.</p>
+               <p>In the houſes of Kings, Dukes, Marqueſſes, Earls, Lords, Knights, Gentlemen, Trades-men Yeomen. Farmers, Husbandmen, yea, and poor Labouring men, in all their Houſes, the faults that are done are imputed to me; what a
+<pb facs="tcp:169822:11"/> lamentable condition am <hi>I</hi> in, that ſhould thus be ſcandalized before the whole world, what a grief is this to my ſoul, but <hi>I</hi> muſt be conten<g ref="char:EOLhyphen"/>ted, <hi>I</hi> could tell thee thouſands of ways more how <hi>I</hi> am abuſed, but <hi>I</hi> will omit them till <hi>I</hi> have told thee the pains that <hi>I</hi> take too.</p>
+               <p>When Gentlemen, Knights, and ſuch like ride journies and have no ſerving men to wait upon them then <hi>I</hi> am fain to be their foot boy to run by their horſe ſide.</p>
+               <p>When folks are gone all out of their houſes, then am <hi>I</hi> fain to be there, vigilantly to look to it, and kéep it from all harm.</p>
+               <p>When young fellows leaves their work and goes to play, then am I fain to work in their ſtead, that their maſters may not be diſpleaſed with them.</p>
+               <p>When ſouldiers are placed in a Caſtle to keep it, if it chance that an enemy comes a<g ref="char:EOLhyphen"/>gainſt it, they like cowardly rogues ſteal away by night, and I am left (onely) to keep it, thouſands more I could tell thee of, but that I think it will be a vexation unto thee, yet how<g ref="char:EOLhyphen"/>ever I will tell thee two or three more; the firſt is that when men are put to hard work, and cannot tell how do it, then I am fain to do it.</p>
+               <pb facs="tcp:169822:12"/>
+               <p>When men neglect their buſineſs, and will not go to do it, then am I fain to go.</p>
+               <p>Again, buſineſs that none in the world is a<g ref="char:EOLhyphen"/>ble to do, that I am put to do.</p>
+               <p>Again, when Knights Gentlemen, or others have any ſtinking meat in their houſe, that the dog is not able to eat, then I muſt; thus they requite me for my pains; oh ingrateful wretches look to it, for be confident that one day you ſhall all dearly rue for it: oh in what a deplorable con<g ref="char:EOLhyphen"/>dition I am in, to be abuſed by the whole world, is not this enough to bring me into deſpair.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Enough! yea half of them it is enough to bring any one into diſpair, &amp; for my part Mr. <hi>No-body,</hi> I will alwayes lament your ſad con<g ref="char:EOLhyphen"/>dition and pray that you may be delivered from them all.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Ah, I thank thee kindly, what a great comfort have I in the enjoying of thy ſweet companie, would thou couldeſt continue with me alwaies I ſhould think my ſelf then happy, though I have ſo many afflictions, and being I love thee ſo well, I will proceed to tel thee more.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Let me tell you one thing firſt which is a comfort to you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>What is that?</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Why this it is (as I conceive) when one Gentleman invites another, or one Lady a<g ref="char:EOLhyphen"/>nother
+<pb facs="tcp:169822:12"/> or more if they fail to come: then you are there in their ſtead ſo that by this thing you get a world of good chear, and have all the dainties that is to be gotten; is not this true?</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Yes it is true that I am fain to be there, but the Devil as ſoon as any dainty I eat: but if I did, doeſt thou think that it would be ſuch a comfort unto me; no know, that I am not ſuch a belly-God: but my afflictions ſtrikes nearer to my heart then all the comforts in the world do; doeſt thou think I take comfort in any thing? no no, I do not.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Alas Sir, the more ſorry I am to hear it, that you take comfort in nothing oh I am grieved as much as you, to hear theſe deadly words: but one thing grieves me more then all the reſt, that I muſt of neceſſity be gone from you for my occaſions are ſo great, that if I ſhould not go it would be n eternal infamy to me.</p>
+            </sp>
+            <sp>
+               <speaker>No,</speaker>
+               <p>Ah Sir, muſt you depart? I am ſorry to hear it; but pray tell me why would it be ſuch an infamy to you, if you ſhould ſtay.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Sir I'l tell you, this morning I was with a ſick patient of mine, and I promiſed in two hours to be with him again, and I have been above ſix hours from him, and truly I left him extream ill, and ſhould he die in the mean time, it would be an eternal infamy unto me.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169822:13"/>
+               <speaker>No.</speaker>
+               <p>You ſpeak very true, and ſeeing your oc<g ref="char:EOLhyphen"/>caſions are ſo great, that you muſt be gone, I would deſire you to appoint a time when we ſhall méet again, for I have not diſcovered half my griefs unto thée.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>I cannot appoint a certain time when I ſhall meet you, but be confident Sir, that the next convenient opportunity I have, I wil wait upon you.</p>
+            </sp>
+            <sp>
+               <speaker>No.</speaker>
+               <p>Well, be ſure thou fail not in thy pro<g ref="char:EOLhyphen"/>miſe, and remember what I have ſaid unto thee.</p>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <p>Yes Sir, I will remember all that you have ſaid unto me, and ſo farewell till our next meeting.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169822:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
